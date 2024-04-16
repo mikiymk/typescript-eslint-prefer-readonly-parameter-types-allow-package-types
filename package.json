@@ -1,0 +1,14 @@
+{
+  "name": "ts-eslint-demo",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ./index.tsx"
+  },
+  "dependencies": {
+    "eslint": "^9.0.0",
+    "solid-js": "^1.8.16",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.7.0"
+  }
+}
